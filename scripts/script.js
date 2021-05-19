@@ -271,4 +271,7 @@ gameMatch.hint = function () {
 };
 $(function () {
   gameMatch.init();
+  console.log(
+    'Thanks for checking this out! Feel free to contact me at timlemkedeveloper@gmail.com if you have any questions!'
+  );
 });
